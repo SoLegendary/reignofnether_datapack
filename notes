@@ -1,0 +1,34 @@
+
+Ore gen world seed:
+496367819626982881
+
+---------------------
+HOW TO MAKE DATAPACKS
+---------------------
+
+1. Download the vanilla worldgen files for reference
+    https://www.reddit.com/r/minecraft_configs/comments/vid9b4/119_vanilla_worldgen_pack_with_dimension_files/
+
+2. Create a new folder for your datapack containing:
+    - data/minecraft/worldgen
+    - pack.mcmeta (with the right format # for your MC version)
+
+3. Decide what kind of data you want to change, eg. for worldgen:
+    https://misode.github.io/worldgen/
+
+4. Make 'replacement files' by mirroring the same file from the minecraft folder in your folder
+
+4. Make the necessary changes, using the vanilla files and guides as reference
+
+
+--------------
+HOW TO INSTALL
+--------------
+
+1. Zip the contents of the parent folder (not the folder itself, but pack.mcmeta + data)
+
+2. (When creating a new world) open: data packs -> open pack folder -> put .zip file into folder
+    - Create the world
+
+3. (When loading an existing world) open: %APPDATA% and find the save folder -> put .zip file into datapacks folder
+    - Load the world (or type /reload in an running world)
