@@ -6,15 +6,16 @@ import json
 unwanted_biomes = [
     "deep_", # oceans
     "swamp",
-    "snowy_slopes",
+    "slopes",
     "badlands",
     "peaks",
     "jungle",
     "ice_spikes",
     "desert",
-    "mushroom",
-    "windswept",
-    "plateau"
+    "plateau",
+    "frozen",
+    "cold",
+    "snowy"
 ]
 
 trimmed_biomes = []
