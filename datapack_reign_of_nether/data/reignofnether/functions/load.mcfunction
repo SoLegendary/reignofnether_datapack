@@ -2,3 +2,4 @@ tellraw @a {"text": "Reign of Nether datapack is up and running!", "color": "#4F
 
 gamerule randomTickSpeed 12
 gamerule doWeatherCycle false
+gamerule doInsomnia false
