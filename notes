@@ -1,6 +1,12 @@
 
-Ore gen world seed:
-496367819626982881
+Plans for this desert branch:
+----------------------------
+1. Allow deserts in world gen again
+2. Remove warm oceans (due to altitude changes, they effectively just become featureless deserts)
+3. Massively increase cactus spawns and clumping for wood sources
+    - Must be paired with a main mod update to allow gathering of cacti
+        - Worth more wood than normal trees but may damage your workers on breaking
+
 
 ---------------------
 HOW TO MAKE DATAPACKS
